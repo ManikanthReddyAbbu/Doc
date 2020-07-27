@@ -1,2 +1,2 @@
 # Doc
-Application Guidelines
+Application- SetUp Config Guidelines
